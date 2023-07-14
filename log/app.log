@@ -1,0 +1,15 @@
+2023/07/14 13:16:35 pq: relation "examples" does not exist
+2023/07/14 13:19:44 pq: relation "examples" does not exist
+2023/07/14 13:21:14 pq: relation "examples" does not exist
+2023/07/14 13:21:47 pq: relation "examples" does not exist
+2023/07/14 13:22:21 pq: relation "examples" does not exist
+2023/07/14 13:23:05 pq: relation "examples" does not exist
+2023/07/14 13:29:14 pq: column "total" of relation "example" does not exist
+2023/07/14 13:54:03 sql: no rows in result set
+2023/07/14 14:02:55 runtime error: invalid memory address or nil pointer dereference
+2023/07/14 14:03:18 example dengan id 27c59d18-f876-485d-b4b1-18e58e97892a tidak ditemukan.
+2023/07/14 14:04:32 example dengan id 27c59d18-f876-485d-b4b1-18e58e97892a tidak ditemukan.
+2023/07/14 14:06:21 example dengan id 27c59d18-f876-485d-b4b1-18e58e97892a tidak ditemukan.
+2023/07/14 14:08:16 sql: no rows in result set
+2023/07/14 14:46:24 pq: unterminated quoted identifier at or near """
+2023/07/14 14:47:16 pq: column " id" does not exist
